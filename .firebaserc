@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "quizz-ade4e": {
+      "hosting": {
+        "Quizz": [
+          "quizz-ade4e"
+        ]
+      }
+    }
+  }
+}
